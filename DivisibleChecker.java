@@ -18,11 +18,9 @@ else
 {
 if(num1%num2==0)
 {
-System.out.println("The first number is divisible by the
-second number");
+System.out.println("The first number is divisible by the second number");
 }
 else
 {
-System.out.println("The first number is not divisible by the
-second number");
+System.out.println("The first number is not divisible by the second number");
 }
